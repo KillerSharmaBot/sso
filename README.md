@@ -54,17 +54,3 @@ python app.py
 ```
 http://127.0.0.1:5000/
 ```
-
-## Warning
-
-This HTML Page Is a "Single Unsubscribe OTP" Send Page:
-
-- The Title Says "Unsubscribe OTP", But It actually Collects Emails For Garena account Recovery
-- It Uses a Gmail address Bypass Trick
-- It Hides Further Steps Behind Captcha/Legal Iframes
-
-Never Enter Your Real Email or Password On This Page.
-
-If This Is Not Your Own Project, Report It On GitHub.
-
-Using This Code For Phishing Is Illegal.
