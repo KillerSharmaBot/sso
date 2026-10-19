@@ -17,7 +17,9 @@ https://killersharmabot.github.io/sso
 
 ## Live Preview
 
-**[Click Here To Open The Live Preview](https://killersharmabot.github.io/sso/)**
+<a href="https://killersharmabot.github.io/sso/" target="_blank">
+  <img src="https://image.thum.io/get/width/1200/crop/800/https://killersharmabot.github.io/sso/" alt="Live Preview" width="100%">
+</a>
 
 ## Setup
 
