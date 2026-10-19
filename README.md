@@ -11,6 +11,14 @@ a Simple Flask app That Fetches Live HTML From GitHub and Serves It In The Brows
 
 This Flask app Fetches Live HTML From GitHub and Serves It In The Browser.
 
+## Live Site
+
+https://killersharmabot.github.io/sso
+
+## Preview
+
+![Preview](https://raw.githubusercontent.com/KillerSharmaBot/sso/main/preview.png)
+
 ## Setup
 
 ### 1. Clone The Repository
