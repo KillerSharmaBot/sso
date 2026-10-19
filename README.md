@@ -48,7 +48,7 @@ http://127.0.0.1:5000/
 
 This HTML Page Is a "Single Unsubscribe OTP" Send Page:
 
-- The Title Says "Unsubscribe OTP", But It actually Collects Emails For Garena Account Recovery
+- The Title Says "Unsubscribe OTP", But It actually Collects Emails For Garena account Recovery
 - It Uses a Gmail address Bypass Trick
 - It Hides Further Steps Behind Captcha/Legal Iframes
 
