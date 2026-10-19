@@ -15,9 +15,9 @@ This Flask app Fetches Live HTML From GitHub and Serves It In The Browser.
 
 https://killersharmabot.github.io/sso
 
-## Preview
+## Live Preview
 
-![Preview](https://raw.githubusercontent.com/KillerSharmaBot/sso/main/preview.png)
+**[Click Here To Open The Live Preview](https://killersharmabot.github.io/sso/)**
 
 ## Setup
 
