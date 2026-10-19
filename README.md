@@ -26,6 +26,7 @@ https://killersharmabot.github.io/sso
 ### 1. Clone The Repository
 
 ```bash
+pkg install git
 git clone https://github.com/KillerSharmaBot/sso.git
 cd sso
 ```
